@@ -73,4 +73,13 @@ class GameOfLife:
 
 # MicroPython dose not have __main__
 goe = GameOfLife()
+goe.show_led()
 
+while True:
+    if button_a.is_pressed():
+        goe.update_cells()
+        goe.show_led()
+    if button_b.is_pressed():
+        goe = GameOfLife()
+        goe.show_led()
+    sleep(150)
