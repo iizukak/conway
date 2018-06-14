@@ -10,12 +10,14 @@ Add demo here
 
 ## Usage 
 
+You can use [Mu](https://codewith.mu/) or [uflash](https://github.com/ntoll/uflash) to flash conway to micro:bit.
+
 AUTO and MANUAL mode are available. AUTO mode execute game automatically, and MANUAL mode need press a button to update states of the cells
 
-- a and b button press
+- Press A and B button
 	- Restart the game
-- a button press
+- Press A button
 	- Update cell states
-- b button press
+- Press B button
 	- Switch mode
 	- AUTO -> MANUAL, MANUAL -> AUTO
