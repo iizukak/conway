@@ -1,7 +1,5 @@
 # conway
 
-## Summary
-
 An implementation of "Conway's Game of Life" in [MicroPython](https://micropython.org/) for [micro:bit](http://microbit.org/).
 
 ## Demo
