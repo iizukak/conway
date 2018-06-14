@@ -26,7 +26,6 @@ class GameOfLife:
         self.current_iteration = 0
         self.current_mode = GameOfLife.MODE['AUTO']
 
-        # current_state is 2 dimensional array of CellState
         self.current_states = \
             [[GameOfLife.STATE['DEAD'] for _ in range(GameOfLife.CELL_NUM)] for _ in range(GameOfLife.CELL_NUM)]
         for i in range(1, GameOfLife.CELL_NUM - 1):
