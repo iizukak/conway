@@ -10,7 +10,7 @@ An implementation of "Conway's Game of Life" in [MicroPython](https://micropytho
 
 ## Usage 
 
-You can use [Mu](https://codewith.mu/) or [uflash](https://github.com/ntoll/uflash) to flash conway to micro:bit.
+You can use [Mu](https://codewith.mu/) or [uflash](https://github.com/ntoll/uflash) to flash `conway.py` to micro:bit.
 
 AUTO and MANUAL mode are available. AUTO mode execute game automatically, and MANUAL mode need press a button to update states of the cells
 
