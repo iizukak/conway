@@ -2,6 +2,8 @@
 
 An implementation of "Conway's Game of Life" in [MicroPython](https://micropython.org/) for [micro:bit](http://microbit.org/).
 
+![demo](images/demo.png)
+
 ## Demo
 
 [Here](https://twitter.com/iizukak/status/1007429297689133056) is the demo.
