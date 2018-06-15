@@ -4,7 +4,7 @@ An implementation of "Conway's Game of Life" in [MicroPython](https://micropytho
 
 ## Demo
 
-Add demo here
+[Here](https://twitter.com/iizukak/status/1007429297689133056) is the demo.
 
 ## Usage 
 
