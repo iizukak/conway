@@ -2,7 +2,7 @@
 
 An implementation of "Conway's Game of Life" in [MicroPython](https://micropython.org/) for [micro:bit](http://microbit.org/).
 
-![demo](images/demo.png)
+![demo](images/demo.gif)
 
 ## Demo
 
